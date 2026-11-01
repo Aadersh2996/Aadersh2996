@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 230" width="900" height="230" role="img" aria-labelledby="f-title f-desc">
+  <title id="f-title">Profit Forensics Engine — deterministic financial investigation</title>
+  <desc id="f-desc">Illustrative connected data pipeline and evidence trail for the financial investigation workspace.</desc>
+  <defs><linearGradient id="f-bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#101b2c"/><stop offset="1" stop-color="#20223d"/></linearGradient><linearGradient id="f-line"><stop stop-color="#48d4b4"/><stop offset="1" stop-color="#a18aff"/></linearGradient></defs>
+  <rect width="900" height="230" rx="18" fill="url(#f-bg)" stroke="#3a3858"/>
+  <text x="42" y="78" fill="#f1f2fb" font-family="Segoe UI,Arial,sans-serif" font-size="40" font-weight="700">Profit Forensics Engine</text>
+  <text x="44" y="111" fill="#b1afcc" font-family="Segoe UI,Arial,sans-serif" font-size="22" letter-spacing="2">FINANCIAL INVESTIGATION · EVIDENCE TRACEABILITY</text>
+  <path d="M70 171H825" stroke="#444166" stroke-width="4"/>
+  <path d="M70 171H825" stroke="url(#f-line)" stroke-width="2" stroke-dasharray="4 16"/>
+  <g fill="#23233e" stroke="url(#f-line)" stroke-width="3">
+    <circle cx="90" cy="171" r="17"/><circle cx="270" cy="171" r="17"/><circle cx="450" cy="171" r="17"/><circle cx="630" cy="171" r="17"/><circle cx="810" cy="171" r="17"/>
+  </g>
+  <g fill="#8de0d0"><circle cx="90" cy="171" r="5"/><circle cx="270" cy="171" r="5"/><circle cx="450" cy="171" r="5"/><circle cx="630" cy="171" r="5"/><circle cx="810" cy="171" r="5"/></g>
+</svg>

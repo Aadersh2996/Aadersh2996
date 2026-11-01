@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 400" width="900" height="400" role="img" aria-labelledby="title desc">
+  <title id="title">Sarguru Marudanayagam Manickamoorthy</title>
+  <desc id="desc">Engineering, Software Development and Enterprise Applications, connected by APIs, databases and business workflows.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#081421"/>
+      <stop offset="0.58" stop-color="#101f31"/>
+      <stop offset="1" stop-color="#0b1727"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#36d6c5"/>
+      <stop offset="1" stop-color="#57a8ff"/>
+    </linearGradient>
+    <radialGradient id="glow">
+      <stop offset="0" stop-color="#1d7186" stop-opacity="0.25"/>
+      <stop offset="1" stop-color="#1d7186" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="900" height="400" rx="22" fill="url(#bg)"/>
+  <circle cx="760" cy="182" r="245" fill="url(#glow)"/>
+  <path d="M0 392H900" stroke="url(#line)" stroke-width="8"/>
+  <g fill="none" stroke="#496779" stroke-opacity="0.38">
+    <path d="M600 94h94v68h-94zM744 94h94v68h-94zM600 238h94v68h-94zM744 238h94v68h-94z"/>
+    <path d="M694 128h50M791 162v76M744 272h-50M647 162v76"/>
+  </g>
+  <g fill="none" stroke="url(#line)" stroke-width="3">
+    <path d="M694 128h50M791 162v76M744 272h-50M647 162v76"/>
+    <circle cx="719" cy="128" r="4" fill="#36d6c5"/>
+    <circle cx="791" cy="200" r="4" fill="#57a8ff"/>
+    <circle cx="719" cy="272" r="4" fill="#36d6c5"/>
+    <circle cx="647" cy="200" r="4" fill="#57a8ff"/>
+  </g>
+  <g font-family="Segoe UI, Arial, sans-serif">
+    <text x="46" y="142" fill="#f2f7fc" font-size="48" font-weight="700">Sarguru Marudanayagam</text>
+    <text x="46" y="201" fill="#f2f7fc" font-size="48" font-weight="700">Manickamoorthy</text>
+    <text x="48" y="260" fill="#78c9ff" font-size="36" font-weight="600">Engineering | Software Development</text>
+    <text x="48" y="308" fill="#78c9ff" font-size="36" font-weight="600">Enterprise Applications</text>
+  </g>
+</svg>
