@@ -8,7 +8,7 @@ This profile was prepared with the tools available in the Codex environment on 1
 - **GitHub Profile README** (`showxu/skills`, installed at user scope): used as the profile-specific guide for GitHub rendering, responsive banner proportions, badges, and post-publish checks. `gh skill preview` was used before installation; GitHub CLI warned that this community skill is not verified by GitHub. Installed version: `fc3529f199d43d1df6968bfc682220d3e75a2c4b`.
 - **Playwright CLI** (available through `npx`): used to open the published profile, inspect it at a 1280×900 desktop and 390×844 mobile viewport, capture screenshots, inspect rendered content, and check that profile images load without horizontal overflow.
 - **Skill Creator** and **Skill Installer** (preinstalled Codex skills): used to create and validate the reusable `github-profile-curator` skill, and to discover and install the profile-specific guide.
-- **`github-profile-curator`** (created at `~/.codex/skills/github-profile-curator`): adds evidence, privacy, and publication-scope checks specific to personal developer profiles. Its structure was validated with the Skill Creator validator.
+- **`github-profile-curator`** (created in the user-level Codex skills directory): adds evidence, privacy, and publication-scope checks specific to personal developer profiles. Its structure was validated with the Skill Creator validator.
 - **Project ERP skills** (`enterprise-ui-designer`, `erp-functional-analyst`, `financial-controls-qa`, `playwright-acceptance-qa`): available locally. The ERP workflow review skills informed verification of ProcureFlow claims; application UI skills were not needed to author a GitHub profile.
 
 ## GitHub and browser tools
